@@ -1,10 +1,10 @@
-Huffman-Coding
-Aim
+# Huffman-Coding
+# Aim
 To implement Huffman coding to compress the data using Python.
 
-Software Required
+#  Software Required
 Anaconda - Python 3.7
-Algorithm:
+# Algorithm:
 Step1:
 
 Step2:
@@ -15,7 +15,8 @@ Step4:
 
 Step5:
 
-Program:
+# Program:
+
 # Get the input String
 
 
@@ -37,7 +38,7 @@ Program:
 
 
 
-Output:
+# Output:
 Print the characters and its huffmancode
 
 
@@ -45,5 +46,5 @@ Print the characters and its huffmancode
 
 
 
-Result
+# Result
 Thus the huffman coding was implemented to compress the data using python programming.
