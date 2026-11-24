@@ -19,24 +19,24 @@ Step5:
 
 # Program:
 
-# Get the input String
+ Get the input String
 
 
 
-# Create tree nodes
+ Create tree nodes
 
 
 
-# Main function to implement huffman coding
+ Main function to implement huffman coding
 
 
 
-# Calculate frequency of occurrence
+ Calculate frequency of occurrence
 
 
 
 
-# Print the characters and its huffmancode
+ Print the characters and its huffmancode
 
 
 
